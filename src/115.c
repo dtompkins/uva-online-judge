@@ -16,6 +16,8 @@
 *********************************************************************
 POST-MORTEM NOTES (if any):
 
+  * very annoying -- no indication that removed 0 should not print
+    for cousins
 ********************************************************************/
 
 #include <stdio.h>

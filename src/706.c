@@ -16,6 +16,9 @@
 *********************************************************************
 POST-MORTEM NOTES (if any):
 
+  * I think the 001 input was *really* unfair, and not hinted at
+    at all by the question spec.
+  * I also wasted a few attempts - I forgot to print new lines
 ********************************************************************/
 
 #include <stdio.h>

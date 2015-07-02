@@ -16,6 +16,10 @@
 *********************************************************************
 POST-MORTEM NOTES (if any):
 
+  * I originally cached every calculated value, but was running
+    out of ram (I tried lots of things but had many run-time errors)
+  * caching all the values < 10000 seemed to be "good enough"
+  * annoying if j < i
 ********************************************************************/
 
 #include <stdio.h>

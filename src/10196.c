@@ -16,6 +16,8 @@
 *********************************************************************
 POST-MORTEM NOTES (if any):
 
+  * I thought I was pretty clever inverting the cases, but I had
+    a tricky case -- I forgot to change the pawn direction
 ********************************************************************/
 
 #include <stdio.h>

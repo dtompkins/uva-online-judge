@@ -16,6 +16,7 @@
 *********************************************************************
 POST-MORTEM NOTES (if any):
 
+  * NO way for *me* to do it without googling pythagorean triples
 ********************************************************************/
 
 #include <stdio.h>

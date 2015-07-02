@@ -15,7 +15,9 @@
   I must fall back to the classic: "Do as I say, not as I do"
 *********************************************************************
 POST-MORTEM NOTES (if any):
-
+  
+  * VERY annoying how it must accept multiple inputs ?!?
+    problem spec did NOT specify this
 ********************************************************************/
 
 #include <stdio.h>

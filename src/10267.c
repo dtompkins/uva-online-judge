@@ -16,6 +16,12 @@
 *********************************************************************
 POST-MORTEM NOTES (if any):
 
+  * Initially I was actually saving the .bmp files
+    (I still think the language was a bit unclear)
+  * I wasted a LOT of time -- I was printing '0's not 'O's.
+    (this also was not very clear)
+  * based on my speed ranking, my stack/flood implementation was
+    pretty efficient
 ********************************************************************/
 
 #include <stdio.h>

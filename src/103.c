@@ -16,6 +16,14 @@
 *********************************************************************
 POST-MORTEM NOTES (if any):
 
+  * 1st try: messed up -- went smallest -> largest dimension
+    I assumed smallest box was always in... counterexample:
+       1 1 100
+       2 2 2
+       3 3 3
+  * 2nd try: selection sort: find the biggest box (nothing fits)
+    that didn't work either
+  * 3rd try: more clever caching recursion
 ********************************************************************/
 
 #include <stdio.h>

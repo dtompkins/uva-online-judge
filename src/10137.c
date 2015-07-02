@@ -16,6 +16,7 @@
 *********************************************************************
 POST-MORTEM NOTES (if any):
 
+  * I (personally) think this was MUCH easier with INTs
 ********************************************************************/
 
 #include <stdio.h>

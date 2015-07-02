@@ -16,6 +16,10 @@
 *********************************************************************
 POST-MORTEM NOTES (if any):
 
+  * I was lame: I wrote a clear_minefield function but forgot to 
+    call it... so I was getting 'wrong answers' and couldn't figure
+    out why :(
+
 ********************************************************************/
 
 #include <stdio.h>

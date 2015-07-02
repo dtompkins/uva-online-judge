@@ -16,6 +16,7 @@
 *********************************************************************
 POST-MORTEM NOTES (if any):
 
+  * I initially messed up the "ignore all invalid actions"
 ********************************************************************/
 
 #include <stdio.h>

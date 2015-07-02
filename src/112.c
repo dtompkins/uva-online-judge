@@ -16,6 +16,10 @@
 *********************************************************************
 POST-MORTEM NOTES (if any):
 
+  * initial arraytree implementation was running out of ram
+    (they must have had a really lopsided test case)
+  * 2nd version -- messed up by checking if tree is NULL
+    instead of checking if it's a leaf (left == right == NULL)
 ********************************************************************/
 
 #include <stdio.h>

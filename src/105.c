@@ -16,6 +16,11 @@
 *********************************************************************
 POST-MORTEM NOTES (if any):
 
+  * 1st try: very naive, one array entry per x
+  * 2nd try: 2 entries per x -- failed on 0 width building? 
+    debug test provided to that, but hard to say if problem spec
+    allows for that
+  * final try: add entries for in-between buildings (e.g., 10.5)
 ********************************************************************/
 
 #include <stdio.h>

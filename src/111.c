@@ -16,6 +16,15 @@
 *********************************************************************
 POST-MORTEM NOTES (if any):
 
+  * very annoying notation
+  * Took me for ever to realize how the @#%@#$ last line scores 9
+      10
+      3 1 2 4 9 5 10 6 8 7
+      1 2 3 4 5 6 7 8 9 10
+      4 7 2 3 10 6 9 1 5 8
+      3 1 2 4 9 5 10 6 8 7
+      2 10 1 3 8 4 9 5 7 6 => 3 7 2 1 9 4 5 6 10 8 ???
+  * had to re-re-re-read the question
 ********************************************************************/
 
 #include <stdio.h>
