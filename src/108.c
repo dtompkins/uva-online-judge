@@ -1,18 +1,15 @@
 /********************************************************************
   !!! DISCLAIMER !!! 
   
-  This is *quick* and *dirty* and *disgusting* code.
+  This code is _really_ "quick & dirty".  It is NOT pretty.
   
-  I'm completing some of the UVa Online Judge problems because:
-  * I'm becoming old and decrepit, and this will help me stay sharp
-  * It gives me ideas for designing my own assignments
-  * It's fun
-  
-  For more information, visit https://uva.onlinejudge.org/
+  It solves a problem from the UVa Online Judge library.
+  https://uva.onlinejudge.org/
   The problem # is the name of the file.
   
-  If any of my students are reading this, this is NOT good style.
-  I must fall back to the classic: "Do as I say, not as I do"
+  See the README.md for more information.
+  
+  --Dave
 *********************************************************************
 POST-MORTEM NOTES (if any):
   
